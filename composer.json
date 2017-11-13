@@ -1,5 +1,5 @@
 {
-  "description": "REST Server untuk Sistem Informasi barang daerah",
+  "description": "REST Server untuk Sistem Informasi Barang Daerah",
   "name": "bantenprov/simbada-api",
   "type": "library",
   "homepage": "https://github.com/bantenprov/simbada-api",
