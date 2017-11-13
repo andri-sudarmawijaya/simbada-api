@@ -1,0 +1,22 @@
+{
+  "description": "REST Server untuk Sistem Informasi barang daerah",
+  "name": "bantenprov/simbada-api",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/simbada-api",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/simbada-api,",
+    "issues": "https://github.com/bantenprov/simbada-api/issues",
+    "wiki": "https://github.com/bantenprov/simbada-api/wiki"
+  },
+  "require": {
+    "bantenprov/simbada": "1.0.*"
+  }
+}
